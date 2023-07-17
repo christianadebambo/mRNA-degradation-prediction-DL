@@ -54,7 +54,7 @@ To get started with this code, follow the steps below:
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies specified in the Requirements section
 3. Prepare the data by downloading the `train.json` and `test.json` files. Make sure they are in the same directory as the code.
-4. Run the script `main.py` to preprocess the data, build and train the model, make predictions, and perform post-processing.
+4. Run the code in a Python environment that supports Jupyter notebooks or execute the code in a Python script.
 
 ## Results
 
